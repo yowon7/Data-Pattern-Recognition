@@ -1,0 +1,11 @@
+path: ../datasets/roboflow
+
+train: train/images
+val: valid/images
+test: test/images
+
+names: 
+  0: eye
+  1: face
+  2: mouth
+  3: nose
